@@ -1,5 +1,4 @@
-## Hi there 👋 
-### I'm Saumel
+## Hi there 👋 I'm Saumel
 - 🔭 I’m currently working on Full Stack Development
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on Web Development Project
@@ -11,7 +10,7 @@
 - 🚀 I’m a passionate programmer and problem solver who loves building things with code.
 - 💻 Currently learning Full Stack Web Development and exploring modern technologies.
 - 🧠 I enjoy solving algorithmic challenges and constantly improving my data structures & problem-solving skills.
-- 🏆 My goal is to become an expert competitive programmer and eventually work as a Software Engineer at a top tech company.
+- 🏆 My goal is to become an expert competitive programmer and work as a Software Engineer at a top tech company.
   
 
 
@@ -28,7 +27,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=saumel-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
