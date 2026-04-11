@@ -1,5 +1,4 @@
-![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaumel-dev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)
-![Saumel Das](https://github.com/user-attachments/assets/56e61590-6d62-4b90-9074-037131a57c37)
+![Views](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fsaumel-dev%2Fsaumel-dev.json%3Fcolor%3Dgreen)
 ## Hi there 👋 I'm Saumel
 - 🔭 I’m currently working on Full Stack Development
 - 🌱 I’m currently learning React.js
