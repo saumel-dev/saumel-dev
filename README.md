@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?user=saumel-dev&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?user=saumel-dev&style=for-the-badge&color=blue)
 ![Saumel Das](https://github.com/user-attachments/assets/56e61590-6d62-4b90-9074-037131a57c37)
 ## Hi there 👋 I'm Saumel
 - 🔭 I’m currently working on Full Stack Development
